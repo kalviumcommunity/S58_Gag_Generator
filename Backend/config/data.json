@@ -1,0 +1,101 @@
+[
+    {
+      "serial_no": 1,
+      "category": "Animal",
+      "joke": {
+        "joke_text": "Why don't scientists trust atoms? Because they make up everything!",
+        "author": "Unknown",
+        "rating": 4.5,
+        "tags": ["science", "atoms", "trust"]
+      }
+    },
+    {
+      "serial_no": 2,
+      "category": "Animal",
+      "joke": {
+        "joke_text": "What do you call a fish with no eyes? Fsh!",
+        "author": "Unknown",
+        "rating": 3.8,
+        "tags": ["fish", "eyes", "puns"]
+      }
+    },
+    {
+      "serial_no": 3,
+      "category": "Animal",
+      "joke": {
+        "joke_text": "Why did the cow go to outer space? To see the moooon!",
+        "author": "Unknown",
+        "rating": 4.2,
+        "tags": ["cow", "space", "moon"]
+      }
+    },
+    {
+      "serial_no": 4,
+      "category": "Food",
+      "joke": {
+        "joke_text": "Why did the tomato turn red? Because it saw the salad dressing!",
+        "author": "Unknown",
+        "rating": 4.1,
+        "tags": ["tomato", "red", "salad"]
+      }
+    },
+    {
+      "serial_no": 5,
+      "category": "Food",
+      "joke": {
+        "joke_text": "What do you get when you cross a snowman and a vampire? Frostbite!",
+        "author": "Unknown",
+        "rating": 4.3,
+        "tags": ["snowman", "vampire", "cross"]
+      }
+    },
+    {
+      "serial_no": 6,
+      "category": "Food",
+      "joke": {
+        "joke_text": "What did one plate say to the other plate? Dinner is on me!",
+        "author": "Unknown",
+        "rating": 4.0,
+        "tags": ["plate", "dinner", "sharing"]
+      }
+    },
+    {
+      "serial_no": 7,
+      "category": "Puns",
+      "joke": {
+        "joke_text": "I'm reading a book on anti-gravity. It's impossible to put down!",
+        "author": "Unknown",
+        "rating": 4.4,
+        "tags": ["book", "anti-gravity", "reading"]
+      }
+    },
+    {
+      "serial_no": 8,
+      "category": "Puns",
+      "joke": {
+        "joke_text": "I told my wife she was drawing her eyebrows too high. She looked surprised!",
+        "author": "Unknown",
+        "rating": 4.6,
+        "tags": ["wife", "eyebrows", "drawing"]
+      }
+    },
+    {
+      "serial_no": 9,
+      "category": "Puns",
+      "joke": {
+        "joke_text": "I'm on a whiskey diet. I've lost three days already!",
+        "author": "Unknown",
+        "rating": 4.7,
+        "tags": ["whiskey", "diet", "lost"]
+      }
+    },
+    {
+      "serial_no": 10,
+      "category": "Animal",
+      "joke": {
+        "joke_text": "What do you call a bear with no teeth? A gummy bear!",
+        "author": "Unknown",
+        "rating": 4.2,
+        "tags": ["bear", "teeth", "gummy"]
+      }
+    }]
